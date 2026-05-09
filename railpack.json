@@ -1,0 +1,3 @@
+{
+  "buildAptPackages": ["re2c"]
+}
