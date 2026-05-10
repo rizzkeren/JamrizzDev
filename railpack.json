@@ -1,3 +1,0 @@
-{
-  "buildAptPackages": ["re2c", "bison", "pkg-config", "libxml2-dev"]
-}
